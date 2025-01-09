@@ -33,8 +33,9 @@ RESTRICTION:
 
 ### COMMENT / POSTAMBLE:
 
-Ultimately of course general purposes might be / need to be free: Dentralizaton (crypto, dApps),  or under a virale license, if no modification needs to be secret.
-Yet they can also easily cover specifics / smart contracts, such as votings / fair payments. Then this license could just be a placeholder in early stages, while the project is only strangers on Github.
+Ultimately of course general purposes might be / need to be free: Dentralizaton (crypto, dApps),  or under a viral license (if no modification needs to be secret.)
+Yet smart contracts can also easily cover specifics, such as votings / fair payments. 
+Then this license can serve as a placeholder, while such a project is still only volunteers / strangers on Github.
 
 "WHY RESTRICT COMMERCIAL USE?" 
 - That's just like asking: "Why tax commercial companies?" "Why does society believe in public goods?" 
@@ -47,7 +48,14 @@ Yet they can also easily cover specifics / smart contracts, such as votings / fa
   - Commercial work is prepared for tax / paperworks anyways. ( _Which can be automatic / easier through decentralization_ )
   - Commercial development varies, for many modern, complex and specific projects. Often or mostly it is hard to imagine, that requiring to ask first, will hinder good causes. ( _While asking might help to connect, motivate or inspire each other_).
 
+"NO LICENSE-VIRALITY?" 
 
+- Virality means 'exponential growth indicator'. Forcing viral development sounds supportive, besides not all open software might needs or deserves the same strategy.
+   - Implementations of license-virality allow commercial exploitation permanently and without requiring to add anything.  
+     - Some publishers add adware or spyware to open source works. 
+        - Such versions can exceed the distribution of the originals. ( _Visibility might not be balanced or fair yet and billions of users might not review every software they chose. Thus authors should care?_ (Or at least it is not always helpful to give ownership to every commercial entity by default) 
+          -  ( _Caring for the present reality of a project does not contradict the overally hope / tendency for more efficient and friendly behavior to grow, careless choices eventually._ )
+ - ( _There is no one-fit-all required. You can consider to release your work under multiple licenses as needed and with exceptions_ ) 
 
 
 
