@@ -31,6 +31,23 @@ RESTRICTION:
 
 ----
 
+### COMMENT / POSTAMBLE:
+
+Ultimately of course general purposes might be / need to be free: Dentralizaton (crypto, dApps),  or under a virale license, if no modification needs to be secret.
+Yet they can also easily cover specifics / smart contracts, such as votings / fair payments. Then this license could just be a placeholder in early stages, while the project is only strangers on Github.
+
+"WHY RESTRICT COMMERCIAL USE?" 
+- That's just like asking: "Why tax commercial companies?" "Why does society believe in public goods?" 
+- Open development and public goods need not be underpaid or paid uncertainly. They need not force themselves to exhaust their productivity and still hardly keep up, even when actually having chosen a worthy and self-sustaining cause.
+   - One can decide per case, what commercial licenses to sell or not. To set certain moral requirements and avoid exploitation but not give general unconditional, permanent, unpredictable licenses (_but rather monthly renewal or SaaS_)
+- Commercial activity is always taxed and essentially defined through its restriction. And defining it (if all work would be a non-commercial, then tax would not need to exist.)
+- "Restricting commercial-use" is simply closest to a legally implemented version of: "Restricting greed". 
+- Non-profit work can increase when not disadvantaged. ( _And non-profits should increasingly receive fair / easy subsidy / minus-tax_ )  
+- "WILL RESTRICTING COMMERCIAL-USE SLOW DOWN DEVELOPMENT?"
+  - Commercial work is prepared for tax / paperworks anyways. ( _Which can be automatic / easier through decentralization_ )
+  - Commercial development varies, for many modern, complex and specific projects. Often or mostly it is hard to imagine, that requiring to ask first, will hinder good causes. ( _While asking might help to connect, motivate or inspire each other_).
+
+
 
 
 
