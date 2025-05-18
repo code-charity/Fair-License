@@ -2,9 +2,7 @@
 - ... [✔] **open contribution & open economic sustainability.**
 - ... [✔] **non-commercial repurposing & same-purpose distribution, <br> without generally allowing commercial exploitation, without requiring license-virality. <i> For example as "Dual licensing", such as: "GNU for everything, except commercial useage" </i> ) 
 
-General purposes infrastructure might be / need to be free? (Dentralizaton and crypto, dApps) and can be under a viral license? (if no modification needs to be private.)
-Yet smart contracts can also easily cover specifics for any smaller projects, such as votings / fair payments.  
-This license can serve as a placeholder, for any project volunteered for on Github, yet without any smart contract. 
+This license can serve as a placeholder, for any project already attracting volunteer work, yet without any smart contract.  
 (This draft "v0.3" attempts to explain to every reader and be legally precise-enough too. ( _Talk to us? ☺ Are you into international law?_ )
 
 ----
@@ -48,7 +46,7 @@ RESTRICTION:
   - Commercial development varies, for many modern, complex and specific projects. Often or mostly it is hard to imagine, that requiring to ask first, will hinder good causes. ( _While asking might help to connect, motivate or inspire each other_).
 
 "WHY NOT REQUIRE LICENSE-VIRALITY?" 
- - There is no one-fit-all. You can (should?) consider to release your work under multiple licenses as needed and with any exceptions.
+ - While general purposes infrastructure might be / need to be completely free (Dentralizaton and crypto, dApps) (and can be under a viral license since no modification needs to be anybody's property or private, yet smart contracts can also easily cover specifics for any smaller projects, such as votings / fair payments. There is no one-fit-all. You can (should?) consider to release your work under multiple licenses as needed and with any exceptions.
  - Virality means 'exponential growth indicator', so forcing viral development sounds supportive, besides not all open software might needs or deserves the same strategy.
    - Implementations of license-virality, such as GNU, allow commercial exploitation permanently and without requiring to add anything. This doesnt necessarily fit or protect specific, small or young projects.
      - Some publishers add adware or spyware to open source works. Such versions can exceed the popularity of the originals. ( _Visibility might not be balanced or fair. Billions of users might not review every software they chose. Thus authors should care?_ (Or at least it is not always helpful to give ownership to every commercial entity by default) ( Caring for the present reality of a project does not contradict the overally hope or tendency for more efficient and friendly behavior to grow, exceeding careless choices eventually.)
