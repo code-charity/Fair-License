@@ -1,6 +1,6 @@
 ### 'Fair-License' - The only License for:
 - ... [✔] **open contribution & open economic sustainability.**
-- ... [✔] **non-commercial repurposing & same-purpose distribution, <br> without generally allowing commercial exploitation, without requiring license-virality. <i> For example as "Dual licensing", such as: "GNU for everything, except commercial useage" </i> ) 
+- ... [✔] **non-commercial repurposing & same-purpose distribution, <br> without generally allowing commercial exploitation, without requiring license-virality.** <i> For example as "Dual licensing", such as: "GNU for everything, except commercial useage" </i> 
 
 This license can serve as a placeholder, for any project already attracting volunteer work, yet without any smart contract.  
 (This draft "v0.3" attempts to explain to every reader and be legally precise-enough too. ( _Talk to us? ☺ Are you into international law?_ )
